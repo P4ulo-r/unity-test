@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-TestBrowser-0.1.0";
+const cacheName = "DefaultCompany-Drone Driver-0.1.0";
 const contentToCache = [
-    "Build/unity-test.loader.js",
-    "Build/unity-test.framework.js",
-    "Build/unity-test.data",
-    "Build/unity-test.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js.br",
+    "Build/Build.data.br",
+    "Build/Build.wasm.br",
     "TemplateData/style.css"
 
 ];

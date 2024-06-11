@@ -1,11 +1,11 @@
 {
-    "name": "TestBrowser",
-    "short_name": "TestBrowser",
+    "name": "Drone Driver",
+    "short_name": "Drone Driver",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "Teste e tals",
+    "description": "",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
